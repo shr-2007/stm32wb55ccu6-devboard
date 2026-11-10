@@ -32,8 +32,6 @@ https://product.tdk.com/info/en/documents/data_sheet/rf_lpf_dlf162500lt-5028a1_e
 
 ## KiCad Libraries and 3D Models
 
-## KiCad Libraries and 3D Models
-
 The following standard KiCad libraries and associated 3D models were used in this project:
 
 | Asset | Source | License |
