@@ -6,7 +6,16 @@
 
 ![Front 3D render](Images/Front_3D.png)
 
-## Overview
+## PCB Renders
+
+### Front Side
+![PCB Front](Images/Front_3D.png)
+
+### Back Side
+![PCB Back](Images/Back_3D.png)
+
+## Schematic
+[View the complete schematic PDF](Hardware/PDF/schematic.pdf)
 
 This repository contains the independently recreated and developed hardware design for a custom development board based on the STMicroelectronics STM32WB55CCU6 wireless microcontroller.
 
