@@ -2,9 +2,9 @@
 
 **A custom four-layer STM32WB55CCU6 development-board design by Canal Star Tech.**
 
-> **Project status:** V1.0 PCB design completed; fabrication and electrical validation pending.
+> **Project status:** V1.0 PCB design completed; fabrication pending.
 
-![Front 3D render](Images/PCB_3D_Front.png)
+![Front 3D render](Images/Front_3D.png)
 
 ## Overview
 
