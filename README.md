@@ -86,7 +86,7 @@ The schematic capture, component placement, PCB layout, routing and Canal Star T
 
 ## License
 
-The original hardware design files explicitly covered by this project are licensed under **CERN Open Hardware Licence Version 2 — Strongly Reciprocal (CERN-OHL-S-2.0)**. See [`LICENSE`](LICENSE) and [`Hardware/NOTICE.md`](Hardware/NOTICE.md).
+The original hardware design files explicitly covered by this project are licensed under **CERN Open Hardware Licence Version 2 — Strongly Reciprocal (CERN-OHL-S-2.0)**. See [`LICENSE`](LICENSE) 
 
 Third-party components, manufacturer documentation, trademarks and externally sourced library assets remain subject to their respective terms. See [`LICENSES/Third_Party_Attributions.md`](LICENSES/Third_Party_Attributions.md).
 
