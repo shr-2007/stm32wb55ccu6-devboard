@@ -9,10 +9,10 @@
 ## PCB Renders
 
 ### Front Side
-![PCB Front](Images/Front_3D.png)
+![PCB Front](Images/F.Cu.png)
 
 ### Back Side
-![PCB Back](Images/Back_3D.png)
+![PCB Back](Images/B.Cu.png)
 
 ## Schematic
 [View the complete schematic PDF](Hardware/PDF/schematic.pdf)
